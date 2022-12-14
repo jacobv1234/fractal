@@ -1,5 +1,5 @@
-# fractal
+# Levy C Curve
 
-Draws a fractal in Python Turtle
+Python Turtle script to draw the above fractal
 
 Simple as
