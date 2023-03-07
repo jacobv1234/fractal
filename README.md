@@ -2,4 +2,4 @@
 
 Python Turtle script to draw the above fractal
 
-Simple as
+Worked out the algorithm from scratch, no googling at all
